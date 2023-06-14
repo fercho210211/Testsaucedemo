@@ -8,11 +8,11 @@ Descargar una copia o clonar el código del repositorio desde GitHub.
 Asegúrate de tener instalado Java Development Kit (JDK) en tu sistema.
 Descarga e instala Intellij Idea (o cualquier otro IDE de tu elección) para escribir y ejecutar el código Java.
 Descarga Selenium WebDriver para Java desde el sitio web oficial de Selenium: https://www.selenium.dev/downloads/
-Configura Selenium WebDriver en tu proyecto de Eclipse.
+Configura Selenium WebDriver en tu proyecto de Intellij Idea.
 
 2. Crea un nuevo proyecto en Intellij Idea
 
-Abre Intellij Ideay crea un nuevo proyecto.
+Abre Intellij Idea y crea un nuevo proyecto.
 Crea una nueva clase Java dentro del proyecto.
 
 3. Importa las bibliotecas necesarias:
